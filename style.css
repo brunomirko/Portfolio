@@ -1,0 +1,14 @@
+:root {
+    --fuente-titulo: "Inter", sans-serif;
+    --fuente-principal: "Spline Sans", sans-serif;
+    --verde: #00FF66;
+    --verde2: #00CC55;
+    --negro: #000;
+    --gris: #0D0D0D;
+    --gris2: #1A1A1A;
+    --detalle: #00E0C3;
+}
+
+body {
+    background-color: var(--gris);
+}
